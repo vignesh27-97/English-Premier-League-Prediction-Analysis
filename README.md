@@ -1,4 +1,4 @@
-# English-Premier-League-Prediction-Analysis
+# English Premier League Prediction Analysis
 
 •	Performed Exploratory Data Analysis (EDA) for the EPL dataset with merged web scraped player transfer data
 
