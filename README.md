@@ -4,4 +4,3 @@
 •	Forecasted the winning probability of a team by analyzing their previous records and players performance metrics
 •	Fine tuned the model hyperparameters for obtaining high accuracy prediction results
 •	Performed Hypothesis testing in the statistical difference in the odds of winning a game when a team is playing in front of their home crowd by considering alpha to be 0.05
-![image](https://user-images.githubusercontent.com/76513476/186027445-7dc25b16-d4f8-44ae-b571-ed40de431f25.png)
